@@ -4,7 +4,7 @@ Welcome to the QA Automation assessment. You will be testing a fictional e-comme
 
 ## Challenge
 
-We would like you to write end-to-end (E2E) tests for the SauceDemo application using Cypress. You have the freedom to choose a design pattern that you believe is suitable for this project. Your design choices will be assessed in the justification phase, so be mindful of your decisions.
+We would like you to write end-to-end (E2E) tests for the SauceDemo application at [SauceDemo](https://www.saucedemo.com/) using Cypress. You have the freedom to choose a design pattern that you believe is suitable for this project. Your design choices will be assessed in the justification phase, so be mindful of your decisions.
 
 ## Objectives
 
@@ -20,7 +20,7 @@ We would like you to write end-to-end (E2E) tests for the SauceDemo application 
    - Clone the forked repository to your local machine.
 
 2. **Create a Branch**:
-   - Create a new branch named `qa-assessment`.
+   - Create a new branch named `firstName-lastName` (e.g., `john-doe`).
 
 3. **Write Your Scripts**:
    - Write your Cypress test scripts in the `cypress/e2e` folder.
