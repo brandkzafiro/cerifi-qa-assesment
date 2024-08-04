@@ -9,5 +9,10 @@
   },
   "dependencies": {
     "@badeball/cypress-cucumber-preprocessor": "^20.1.1"
+  },
+  "scripts": {
+    "cy:open": "cypress open",
+    "cy:run": "cypress run",
+    "e2e:chrome": "cypress run --browser chrome --headless"
   }
 }
