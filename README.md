@@ -19,8 +19,6 @@ In the Cypress Test Runner, choose one of the following test suites to run:
 
 ## Running Tests
 
-To run tests, run the following command
-
 ```bash
   npm run cy:open
 ```
@@ -35,8 +33,6 @@ In the Cypress Test Runner, choose one of the following test suites to run:
 ### Design Pattern Used
 
 The framework is built using the Page Object Model (POM) design pattern. POM is a popular design pattern in test automation that helps to create object repositories for web elements. It provides a clear separation between test code and page-specific code, making tests more readable, maintainable, and reusable.
-
-### Benefits
 
 - **Modularity**: Each page of the application has a corresponding page object class that contains the elements and actions that can be performed on that page.
 - **Readability**: Test scripts are easier to read and understand, as they are written in a high-level language that mirrors the actions of a user.
